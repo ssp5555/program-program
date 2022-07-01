@@ -1,0 +1,39 @@
+Do not scroll bar when search icon showed.
+
+
+search icon should be center of the page
+search icon is size variation
+//need to confirm/no data message either total company
+image setting is not open when search mismatch data
+
+search highlight is not show
+browser tab icon mismatch
+profile icon is missing
+unwanted spinner occurs in card lazy load
+"Save Confirmation" title should be in confirmation box
+confirmation box is not proper 
+snackbar message is wrong as per sova
+card width is not proper
+image setting is not proper arrange rows
+------------------
+UI bug:
+1.Page scroll shouldn't occur in list screen while searching a customer
+2.No data icon should be center of the page 
+3.No data icon and message should be as pe figma
+4.Search highlight is missing in card results
+5.Title icon should be load properly(Don't show vue.js icon)
+6.Profile icon is missing
+7.Save Confirmation dialog title should be "Save Confirmation" 
+8.Save Confirmation alignment should be as per standard
+9.Avoid tooltips in "Yes" and "No" options in confirmation dialog
+10.Card width should be as per figma
+11.Role order icons are not loaded in Image Setting screen.
+
+Functional bug:
+1.Image setting dialog is not opening in no data scenario
+2.unwanted spinner occurs in card lazy load
+3.Image setting snack bar save message should be as per standard 
+4.Role order is not as per standard in Image Setting screen.
+
+
+1.Stats label  should be ends with Customer/Customers instead of companies.
