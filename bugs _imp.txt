@@ -38,4 +38,6 @@ Functional bug:
 
 1.Stats label  should be ends with Customer/Customers instead of companies.
 
-new spec add
+new spec add in list screen
+bulk data upload in detail screen
+this label is changed to "contact detail"
