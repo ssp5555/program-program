@@ -37,3 +37,5 @@ Functional bug:
 
 
 1.Stats label  should be ends with Customer/Customers instead of companies.
+
+new spec add
